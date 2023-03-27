@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: computer programming
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I don't like frog
-
+![image](https://user-images.githubusercontent.com/129084212/227989115-92caad17-def9-48e1-bf36-a3c1f526c6b0.png)
 <!--
 ![image](https://user-images.githubusercontent.com/129084212/227986631-0f56ad98-c121-49e7-bec8-a3c9d40dc670.png)
