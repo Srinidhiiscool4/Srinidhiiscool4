@@ -10,6 +10,6 @@ Here are some things about me:
 - :yum: My favorite food is Pasta, especially red sauce pasta!
 - :sleeping: I'm a very sleeping person, I'm always sleeping
 - 😎 I am a big introvert, just chilling at home most of the time!
-# Portfolio
+## [Portfolio](https://srinidhiiscool4.github.io/Portfolio/)
 
 All of my coding projects
